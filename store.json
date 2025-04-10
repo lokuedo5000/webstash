@@ -1,11 +1,11 @@
 [
   {
-    "branch": "lokuedo",
-    "name": "Lokuedo Store",
+    "branch": "lwte",
+    "name": "Lwte Store",
     "version": "1.0.0",
-    "author": "lokuedo5000",
-    "category": "apps, apps web",
-    "description": "Estamos construyendo una tienda de aplicaciones web pensada para ti, con nuevas opciones en camino que se adaptan a tus intereses.",
+    "author": "lwte",
+    "category": "games",
+    "description": "Estamos creando una tienda de juegos web diseñada para ti, con nuevas experiencias y títulos en camino que se adaptan a tus gustos.",
     "cover": null
   }
 ]
