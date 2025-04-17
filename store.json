@@ -2,7 +2,7 @@
   {
     "branch": "lokuedo",
     "name": "WS/Store",
-    "version": ["1.0.0"],
+    "version": ["1.0", "1.0.0"],
     "author": "lokuedo5000",
     "category": ["Apps", "Apps Web"],
     "description": "Estamos construyendo una tienda de aplicaciones web pensada para ti, con nuevas opciones en camino que se adaptan a tus intereses.",
