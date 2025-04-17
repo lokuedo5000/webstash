@@ -6,6 +6,11 @@
     "author": "lokuedo5000",
     "category": ["Apps", "Apps Web"],
     "description": "Estamos construyendo una tienda de aplicaciones web pensada para ti, con nuevas opciones en camino que se adaptan a tus intereses.",
-    "cover": null
+    "cover": null,
+    "download": {
+      "git": "https://github.com/lokuedo5000/webstash.git",
+      "folder": "apps/wsstore"
+    },
+    "appID": "b8bfa1d0a5b3"
   }
 ]
